@@ -1,0 +1,6 @@
+@CascadingList_HostAddress = http://localhost:5009
+
+GET {{CascadingList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
